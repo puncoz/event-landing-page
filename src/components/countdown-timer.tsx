@@ -1,3 +1,4 @@
+"use client"
 import TimeUnit from "@/components/time-unit"
 import { calculateTimeToEvent } from "@/utils/countdown.utils"
 import type { Framework } from "@/utils/framework.utils"
